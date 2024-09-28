@@ -1,0 +1,21 @@
+2024-09-28 10:27:49,385 - INFO - Database initialization started.
+2024-09-28 10:27:49,385 - DEBUG - Folder already exists: sql
+2024-09-28 10:27:49,385 - DEBUG - Folder already exists: data
+2024-09-28 10:27:49,385 - DEBUG - Folder already exists: data
+2024-09-28 10:27:49,385 - INFO - Database created successfully.
+2024-09-28 10:27:49,406 - INFO - Tables created successfully.
+2024-09-28 10:27:49,425 - INFO - Data inserted successfully from CSV files.
+2024-09-28 10:27:49,425 - INFO - Database initialization completed successfully.
+2024-09-28 10:27:56,433 - INFO - Database operations started.
+2024-09-28 10:27:56,433 - INFO - Inserting additional records.
+2024-09-28 10:27:56,459 - INFO - Executed SQL from sql_operations\insert_records.sql
+2024-09-28 10:27:56,459 - INFO - Updating records.
+2024-09-28 10:27:56,475 - INFO - Executed SQL from sql_operations\update_records.sql
+2024-09-28 10:27:56,476 - INFO - Deleting records.
+2024-09-28 10:27:56,489 - INFO - Executed SQL from sql_operations\delete_records.sql
+2024-09-28 10:27:56,496 - INFO - Executed query from sql_operations\query_aggregation.sql
+2024-09-28 10:27:56,496 - INFO - Executed query from sql_operations\query_filter.sql
+2024-09-28 10:27:56,510 - INFO - Executed query from sql_operations\query_sorting.sql
+2024-09-28 10:27:56,520 - INFO - Executed query from sql_operations\query_group_by.sql
+2024-09-28 10:27:56,525 - INFO - Executed query from sql_operations\query_join.sql
+2024-09-28 10:27:56,525 - INFO - Database operations completed successfully.
